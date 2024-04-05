@@ -107,5 +107,5 @@ int main(){
     //exercicio02();
     //exercicio03();
     //exercicio04();
-    //exercicio05();
+    exercicio05();
 }
